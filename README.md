@@ -2,6 +2,12 @@
 
 [zenrei](https://github.com/typewriter/zenrei) client for Emacs.
 
+## What's This
+
+You can use [zenrei](https://github.com/typewriter/zenrei)'s API in Emacs.
+
+![zenrei](https://i.gyazo.com/07e7d6fe8293de85911c043abf00db22.gif)
+
 ## Setup
 
 `git clone` and edit your init.el as below.
@@ -15,7 +21,7 @@
 
 ### Search
 
-+ `M-x zenrei-search RET YOUR_STRING`
+`M-x zenrei-search RET YOUR_STRING`
 
 ### Suggest
 
