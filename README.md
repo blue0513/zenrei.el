@@ -10,6 +10,13 @@ You can use [zenrei](https://github.com/typewriter/zenrei)'s API in Emacs.
 
 ## Setup
 
+### Requirements
+
+This package requires [posframe.el](https://github.com/tumashu/posframe).  
+You need to install `posframe` before.
+
+### Settings
+
 `git clone` and edit your init.el as below.
 
 ```elisp
